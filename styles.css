@@ -2,9 +2,10 @@
 /* Your CSS Code here. */
 
 main.Accio#Job{
-    background-color: black ; 
+   
     width:150px;
     height: 150px;
+	background-color: black ; 
         
 }
 p.hello-accio-job{
